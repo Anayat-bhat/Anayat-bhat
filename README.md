@@ -32,9 +32,9 @@
 
 
 ## 📊 GitHub Stats
-![Anayat's GitHub stats](https://github-readme-stats.vercel.app/api?username=inayatbhat&show_icons=true&theme=radical)
+![Anayat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anayat-bhat&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inayatbhat&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anayat-bhat&layout=compact&theme=tokyonight)
 
 
 
