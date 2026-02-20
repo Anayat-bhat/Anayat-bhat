@@ -29,13 +29,13 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anayat-bhat&layout=compact&theme=tokyonight)
+
 
 
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anayat-bhat-221aaa337)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/inayat_.bhat_/?utm_source=ig_web_button_share_sheet)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anayat_.bhat__/?utm_source=ig_web_button_share_sheet)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anayatbhat129@gmail.com)
 
 
